@@ -113,7 +113,6 @@ I help companies across the DACH region and Europe **untangle their data chaos**
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-l-kaba&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-l-kaba&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
